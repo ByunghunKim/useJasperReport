@@ -16,7 +16,7 @@
             <th scope="col">제목</th>
         </tr>
         <tr>
-            <td>rkskek</td>
+            <td>내용</td>
         </tr>
     </table>
 </body>
