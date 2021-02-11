@@ -13,10 +13,10 @@
     <table>
         <caption>보고기기 급여비 지급청구서</caption>
         <tr>
-            <th scope="col">가나다</th>
+            <th scope="col">제목</th>
         </tr>
         <tr>
-            <td>아아아</td>
+            <td>rkskek</td>
         </tr>
     </table>
 </body>
